@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Viktoria-Gunia/react-app.git/static/css/main.72f372f7.chunk.css",
+    "main.js": "/Viktoria-Gunia/react-app.git/static/js/main.d3e611c6.chunk.js",
+    "main.js.map": "/Viktoria-Gunia/react-app.git/static/js/main.d3e611c6.chunk.js.map",
+    "runtime-main.js": "/Viktoria-Gunia/react-app.git/static/js/runtime-main.ba3a8339.js",
+    "runtime-main.js.map": "/Viktoria-Gunia/react-app.git/static/js/runtime-main.ba3a8339.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/Viktoria-Gunia/react-app.git/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.8c943274.chunk.js": "/Viktoria-Gunia/react-app.git/static/js/2.8c943274.chunk.js",
+    "static/js/2.8c943274.chunk.js.map": "/Viktoria-Gunia/react-app.git/static/js/2.8c943274.chunk.js.map",
+    "index.html": "/Viktoria-Gunia/react-app.git/index.html",
+    "precache-manifest.b5cbe0a8343d4aa86a7da17b55ba0736.js": "/Viktoria-Gunia/react-app.git/precache-manifest.b5cbe0a8343d4aa86a7da17b55ba0736.js",
+    "service-worker.js": "/Viktoria-Gunia/react-app.git/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/Viktoria-Gunia/react-app.git/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.72f372f7.chunk.css.map": "/Viktoria-Gunia/react-app.git/static/css/main.72f372f7.chunk.css.map",
+    "static/js/2.8c943274.chunk.js.LICENSE.txt": "/Viktoria-Gunia/react-app.git/static/js/2.8c943274.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba3a8339.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.8c943274.chunk.js",
+    "static/css/main.72f372f7.chunk.css",
+    "static/js/main.d3e611c6.chunk.js"
+  ]
+}
